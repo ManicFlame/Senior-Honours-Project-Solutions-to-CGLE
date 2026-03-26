@@ -1,4 +1,4 @@
-This repository contains the code I used for numerical simulations of the CGLE. Below is a description of each file:
+This repository contains the code I created and used for numerical simulations of the CGLE. Below is a description of each file:
 
 
 ginzburg-landau modA : Generates plots of |A| vs. x every 50.0 time units, saves them as .png files in the same folder as the program
