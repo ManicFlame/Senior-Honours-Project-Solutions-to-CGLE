@@ -9,3 +9,6 @@ ginzburg landau-phase_plots: Generates a series of phase plots for the complex p
 
 ginzburg-landau_varying_c_g: Generates a series of plots every 1 time unit of Re(A) vs. x. Also saves one of these plots every 50 units
 
+ginzburg-landau_forcing: same as x_t plots but with a forcing boundary condition added at x=L
+
+Note: each file contains a copy of the cheb() function which computes Chebyshev spectral differentiation matrices. This should allow every file to run independently
